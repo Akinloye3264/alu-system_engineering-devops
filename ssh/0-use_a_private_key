@@ -1,0 +1,2 @@
+#!/usr/bin/env bash 
+ssh 4593f61e9569.c66578f8.alu-cod.online -i ~/.ssh/school
